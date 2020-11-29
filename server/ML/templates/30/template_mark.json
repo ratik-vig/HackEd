@@ -1,0 +1,80 @@
+
+{
+    "Dimensions": [
+        800,
+        400
+    ],
+    "BubbleDimensions": [
+        45,
+        35
+    ],
+    "Concatenations": {},
+    "Singles": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+    ],
+    "QBlocks": {
+        "MCQBlock1": {
+            "qType": "QTYPE_MCQ5",
+            "orig": [
+                115,
+                100
+            ],
+            "qNos": [
+                [
+                    [
+                        "q1",
+                        "q2",
+                        "q3",
+                        "q4",
+                        "q5"
+                    ]
+                ]
+            ],
+            "gaps": [
+                60,
+                63
+            ],
+            "bigGaps": [
+                50,
+                50
+            ]
+        },
+        
+        "MCQBlock2": {
+            "qType": "QTYPE_MCQ5",
+            "orig": [
+                475,
+                100
+            ],
+            "qNos": [
+                [
+                    [
+                        "q6",
+                        "q7",
+                        "q8",
+                        "q9",
+                        "q10"
+                    ]
+                ]
+            ],
+            "gaps": [
+                60,
+                63
+            ],
+            "bigGaps": [
+                0,
+                0
+            ]
+        }
+    }
+}
+

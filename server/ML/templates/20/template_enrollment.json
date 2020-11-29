@@ -1,0 +1,56 @@
+{
+    "Dimensions": [
+        600,
+        750
+    ],
+    "BubbleDimensions": [
+        35,
+        45
+    ],
+    "Concatenations": {},
+    "Singles": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10"
+    ],
+    "QBlocks": {
+        "MCQBlock1": {
+            "qType": "QTYPE_ROLL",
+            "orig": [
+                75,
+                165
+            ],
+            "qNos": [
+                [
+                    [
+                        "q1",
+                        "q2",
+                        "q3",
+                        "q4",
+                        "q5",
+                        "q6",
+                        "q7",
+                        "q8",
+                        "q9",
+                        "q10"
+                    ]
+                ]
+            ],
+            "gaps": [
+                49,
+                56.5
+            ],
+            "bigGaps": [
+                0,
+                0
+            ]
+          }
+    }
+}

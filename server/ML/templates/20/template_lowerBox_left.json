@@ -1,0 +1,96 @@
+
+{
+    "Dimensions": [
+        800,
+        400
+    ],
+    "BubbleDimensions": [
+        30,
+        30
+    ],
+    "Concatenations": {},
+    "Singles": [
+        "q11",
+        "q12",
+        "q13",
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19",
+        "q20"
+    ],
+    "QBlocks": {
+        "MCQBlock1": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                107,
+                120
+            ],
+            "qNos": [
+                [
+                    [
+                        "q11",
+                        "q12"
+                    ]
+                ]
+            ],
+            "gaps": [
+                36,
+                110
+            ],
+            "bigGaps": [
+                20,
+                20
+            ]
+        },
+        "MCQBlock2": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                365,
+                120
+            ],
+            "qNos": [
+                [
+                    [
+                        "q13",
+                        "q14"
+                    ]
+                ]
+            ],
+            "gaps": [
+                36,
+                110
+            ],
+            "bigGaps": [
+                20, 
+                20
+            ]
+        },
+        "MCQBlock3": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                628,
+                120
+            ],
+            "qNos": [
+                [
+                    [
+                        "q15",
+                        "q16"
+                    ]
+                ]
+            ],
+            "gaps": [
+                36,
+                110
+            ],
+            "bigGaps": [
+                20,
+                20
+            ]
+        }
+}
+}
+

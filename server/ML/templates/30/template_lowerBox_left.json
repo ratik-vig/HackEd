@@ -1,0 +1,104 @@
+
+{
+    "Dimensions": [
+        800,
+        400
+    ],
+    "BubbleDimensions": [
+        40,
+        35
+    ],
+    "Concatenations": {},
+    "Singles": [
+        "q11",
+        "q12",
+        "q13",
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19",
+        "q20",
+        "q21",
+        "q22"
+    ],
+    "QBlocks": {
+        "MCQBlock1": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                90,
+                72
+            ],
+            "qNos": [
+                [
+                    [
+                        "q11",
+                        "q12",
+                        "q13",
+                        "q14"
+                    ]
+                ]
+            ],
+            "gaps": [
+                38,
+                78
+            ],
+            "bigGaps": [
+                20,
+                20
+            ]
+        },
+        "MCQBlock2": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                350,
+                72
+            ],
+            "qNos": [
+                [
+                    [
+                        "q15",
+                        "q16",
+                        "q17",
+                        "q18"
+                    ]
+                ]
+            ],
+            "gaps": [
+                38,
+                78
+            ],
+            "bigGaps": [
+                20, 
+                20
+            ]
+        },
+        "MCQBlock3": {
+            "qType": "QTYPE_MCQ4",
+            "orig": [
+                613,
+                72
+            ],
+            "qNos": [
+                [
+                    [
+                        "q19",
+                        "q20",
+                        "q21",
+                        "q22"
+                    ]
+                ]
+            ],
+            "gaps": [
+                38,
+                78
+            ],
+            "bigGaps": [
+                20,
+                20
+            ]
+        }
+}
+}
+

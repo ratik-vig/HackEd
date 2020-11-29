@@ -1,0 +1,58 @@
+
+{
+    "Dimensions": [
+        800,
+        400
+    ],
+    "BubbleDimensions": [
+        30,
+        25
+    ],
+    "Concatenations": {},
+    "Singles": [
+        "idx_1",
+        "idx_2",
+        "idx_3",
+        "idx_4",
+        "idx_5"
+    ],
+    "QBlocks": {
+        "MCQBlock1": {
+            "qType": "QTYPE_INT",
+            "orig": [
+                160,
+                90
+            ],
+            "qNos": [
+                [
+                    [
+                        "idx_1",
+                        "idx_2",
+                        "idx_3",
+                        "idx_4",
+                        "idx_5"
+                    ]
+                ]
+            ],
+            "gaps": [
+                110,
+                30
+            ],
+            "bigGaps": [
+                50,
+                50
+            ]
+        }
+}
+}
+
+
+
+
+
+
+
+
+
+
+
